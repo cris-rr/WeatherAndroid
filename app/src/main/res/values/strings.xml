@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_message">City</string>
+    <string name="weather_button">Get current weather</string>
+    <string name="forecast_button">Get forecast info</string>
+
+</resources>
